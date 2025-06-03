@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! I'm Kumar, a front-end developer with a strong passion for creating intuitive and responsive user interfaces. <br>I'm currently pursuing my studies in Computer Applications, where I’m deepening my understanding of web technologies and design principles.<br> I enjoy turning ideas into interactive digital experiences using HTML, CSS, JavaScript, and modern frameworks like React.
+Hello! I'm Kumar, a front-end developer with a strong passion for creating intuitive and responsive user interfaces. <br>I'm currently pursuing my studies in Computer Applications,
+where I’m deepening my understanding of web technologies and design principles.<br> I enjoy turning ideas into interactive digital experiences using HTML, CSS, JavaScript, and modern frameworks like React.
 
 
 ## 🌐 Socials:
