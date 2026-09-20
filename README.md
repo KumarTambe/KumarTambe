@@ -20,6 +20,8 @@ Best work is pinned below 👇
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarTambe&theme=tokyonight&hide_border=true" height="165"/>
 
+<img src="https://raw.githubusercontent.com/KumarTambe/KumarTambe/output/github-contribution-grid-snake-dark.svg" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-tambe-556340256/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumartambe44@gmail.com)
 
