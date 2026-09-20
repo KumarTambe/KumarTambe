@@ -18,7 +18,7 @@ Best work is pinned below 👇
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=KumarTambe&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarTambe&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarTambe&theme=tokyonight&hide_border=true" height="165"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-tambe-556340256/)
